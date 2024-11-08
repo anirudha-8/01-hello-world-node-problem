@@ -49,7 +49,7 @@ Run the following command to run project:
 ## 📂Project Structure
 
 ```js
-    problem-1-simple-server/
+    01-hello-world-node-problem/
     ├── server.js       # Contains the server code
     ├── README.md       # Documentation for this problem
     └── package.json    # Project configuration file
